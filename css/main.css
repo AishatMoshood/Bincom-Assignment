@@ -1,0 +1,102 @@
+html {
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+
+* {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 16px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+ 
+.section1 {
+    line-height: .2em;
+}
+.section1 h1 {
+font-size: 25px;
+text-align: center;
+}
+
+.section1 div {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+section h2 {
+    text-align: center;
+}
+
+.section2 {
+    margin-top: 3em;
+    line-height: 1.5em;
+}
+
+.section3 {
+    margin-top: 3em;
+}
+
+.section4 {
+    margin-top: 3em;
+    line-height: 1.5em;
+    margin-left: -1.5em;
+}
+
+.large-3 {
+    width: 100%;
+}
+
+.section5 {
+    margin-top: 3em;
+   
+    line-height: 1.5em;
+}
+
+.experience {
+    margin-bottom: 40px;
+}
+
+.experience-title {
+    line-height: .7em;
+}
+
+.section6 {
+    line-height: 1.5em;
+}
+
+.section7 {
+    margin-bottom: 20px;
+}
+
+.section7 div {
+    padding-bottom: 5px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    
+}
+
+.section8>div>div {
+    
+   margin-bottom: 4rem;
+}
+
+.section8 p {
+    font-size: 25px;
+    color: darkcyan;
+    text-align: center;
+    background-color: #eee;
+    padding-bottom: 1em;
+    margin-top: auto;
+
+
+   
+}

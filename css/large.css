@@ -1,0 +1,58 @@
+@media only screen and (min-width: 800px) {
+    body {
+        font-size: large;
+        margin: 40px 2rem 20px 2rem; 
+    }
+
+    h1 {
+        font-size: 35px;
+    }
+
+    .section1 div, .experience-title{
+        display: flex;
+        justify-content: space-between;
+    }
+
+.row {
+    width: 100%;
+    display: flex;
+}
+
+    .large-6 {
+        width: 50%;
+    }
+
+
+.section7-div {
+    display: flex;
+        justify-content: space-between;
+}
+
+.section8-row1 {
+    padding-left: 5em;
+}
+
+.section8-row1>div {
+    padding-right: 4rem;
+}
+
+
+
+.section8 {
+    padding-bottom: 20px;
+}
+
+.section8-row2 {
+width: 92%;
+margin-left: 5.6rem;
+margin-right: 4.5rem;
+}
+
+.section8-row2-div {
+    padding-right: 3rem;
+}
+
+
+
+
+}
